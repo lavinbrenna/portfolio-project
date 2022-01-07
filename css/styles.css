@@ -60,6 +60,17 @@ a:hover{
   background-color:#FF6392;
   border-radius: 5px;
 }
+.project-list a{
+  text-decoration: none;
+  color:#0C0F0A;
+}
+.project-list a:hover{
+  background-color:#7FC8F8;
+  box-shadow: 5px 5px rgb(159,254,59);
+  text-decoration: underline;
+  font-style: bold;
+  font-weight: bolder;
+}
 .footer{
   margin: auto;
   width: 50%;
