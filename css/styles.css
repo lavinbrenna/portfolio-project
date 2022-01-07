@@ -15,6 +15,9 @@ h1{
 h3{
   font-style:bold;
 }
+strong{
+  font-family: 'Righteous', cursive;
+}
 .contact-info{
   box-sizing: border-box;
   width: 25%;
@@ -67,7 +70,7 @@ a:hover{
   background-color: white;
   box-shadow:#0C0F0A;
   text-decoration: underline;
-  font-style: bold;
+  font-family: 'Righteous', cursive;
 
 }
 .project-list{
@@ -89,6 +92,7 @@ a:hover{
   text-decoration: underline;
   font-style: bold;
   font-size: 12pt;
+  font-family: 'Righteous', cursive;
 }
 .footer{
   margin: auto;

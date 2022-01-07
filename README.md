@@ -24,7 +24,7 @@ This website serves as my portfolio which will showcase all of the projects I ha
 
 ## Known Bugs
 
-* WIP - currently no known issues.
+* No known bugs
 
 ## License
 
