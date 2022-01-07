@@ -1,15 +1,14 @@
 # Brenna Lavin's Portfolio
 
-#### By Brenna Lavin
+## By Brenna Lavin
 
-#### Portfolio to showcase projects 
+### Portfolio to showcase projects
 
 ## Technologies Used
 
 * HTML
 * CSS
 * Bootstrap
-
 
 ## Description
 
@@ -22,13 +21,9 @@ This website serves as my portfolio which will showcase all of the projects I ha
 * Or, use link to view on Github Pages
 * 
 
-
-
-
 ## Known Bugs
 
 * WIP - currently no known issues.
-
 
 ## License
 
@@ -52,4 +47,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE

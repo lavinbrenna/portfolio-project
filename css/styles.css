@@ -1,8 +1,42 @@
 body{
   background-color: #0C0F0A;
-  color: #f9f9f9;
+  color: #0C0F0A
 }
 .jumbotron{
-  background-color: #7FC8F8;
+  background-color: #ffffff;
   text-align: center;
+}
+.section-box{
+  box-sizing: border-box;
+  width: 25%;
+  padding: 50px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 10px;
+}
+#contact-info{
+  float: left;
+  background-color: #FFE45E;
+
+}
+#contact-info img{
+  width: 75%;
+  border-radius: 50%;
+}
+#project-list{
+  float: left;
+  background-color:#FF6392;
+
+}
+#about-me{
+padding: 50px;
+float: left;
+background-color: rgb(159,254,59);
+
+}
+#current-interests{
+padding: 50px;
+float: left;
+background-color: #7FC8F8;
+
 }
