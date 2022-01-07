@@ -9,6 +9,7 @@
 * HTML
 * CSS
 * Bootstrap
+* Spotify Music Player
 
 ## Description
 

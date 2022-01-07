@@ -1,20 +1,25 @@
 body{
   background-color: #0C0F0A;
-  color: #0C0F0A
+  color: #0C0F0A;
+  align-items: center;
 }
 .jumbotron{
   background-color: #ffffff;
   text-align: center;
+  margin: 5px;
+}
+.container{
+  align-content: center;
 }
 .contact-info{
   box-sizing: border-box;
-  width: 33%;
+  width: 25%;
   padding: 50px;
-  margin: 10px;
-  float: left;
+  margin: 5px;
   background-color: #FFE45E;
-  height:75%;
+  float:left;
   text-align: center;
+  border-radius: 5px;
 }
 #profile{
   width: 75%;
@@ -28,32 +33,43 @@ body{
 }
 a:hover{
   background-color:#7FC8F8;
-  box-shadow: 10px 10px black;
-}
-.project-list{
-  box-sizing: border-box;
-  width: 33%;
-  padding: 50px;
-  margin: 10px;
-  float: left;
-  background-color:#FF6392;
-
+  box-shadow: 10px 10px #FF6392;
 }
 .current-interests{
   box-sizing: border-box;
   width: 33%;
   padding: 50px;
-  margin: 10px;
+  margin: 5px;
   padding: 50px;
-  display: inline-block;
+  float: left;
   background-color: #7FC8F8;
+  border-radius: 5px;
 }
 .about-me{
   box-sizing: border-box;
-  width: 33%;
+  width: 67.5%;
   padding: 50px;
-  margin: 10px;
-  padding: 50px;
+  margin: 5px;
+  padding: 40px;
   display: inline-block;
   background-color: rgb(159,254,59);
+  border-radius: 5px;
+}
+.project-list{
+  box-sizing: border-box;
+  width: 59.25%;
+  padding: 50px;
+  margin: 5px;
+  display: inline-block;
+  background-color:#FF6392;
+  border-radius: 5px;
+}
+.footer{
+  margin: auto;
+  width: 50%;
+  background-color:#ffffff;
+  display: block;
+  text-align:center;
+  border-radius: 5px;
+  
 }
