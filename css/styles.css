@@ -1,15 +1,11 @@
 body{
   background-color: #0C0F0A;
   color: #0C0F0A;
-  align-items: center;
 }
 .jumbotron{
   background-color: #ffffff;
   text-align: center;
   margin: 5px;
-}
-.container{
-  align-content: center;
 }
 .contact-info{
   box-sizing: border-box;
@@ -37,7 +33,7 @@ a:hover{
 }
 .current-interests{
   box-sizing: border-box;
-  width: 33%;
+  width: 32.5%;
   padding: 50px;
   margin: 5px;
   padding: 50px;
@@ -47,7 +43,7 @@ a:hover{
 }
 .about-me{
   box-sizing: border-box;
-  width: 67.5%;
+  width: 72.95%;
   padding: 50px;
   margin: 5px;
   padding: 40px;
@@ -57,7 +53,7 @@ a:hover{
 }
 .project-list{
   box-sizing: border-box;
-  width: 59.25%;
+  width: 65.5%;
   padding: 50px;
   margin: 5px;
   display: inline-block;
@@ -71,5 +67,4 @@ a:hover{
   display: block;
   text-align:center;
   border-radius: 5px;
-  
 }
