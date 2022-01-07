@@ -6,37 +6,54 @@ body{
   background-color: #ffffff;
   text-align: center;
 }
-.section-box{
+.contact-info{
   box-sizing: border-box;
-  width: 25%;
+  width: 33%;
   padding: 50px;
-  box-sizing: border-box;
-  display: inline-block;
   margin: 10px;
-}
-#contact-info{
   float: left;
   background-color: #FFE45E;
-
+  height:75%;
+  text-align: center;
 }
-#contact-info img{
+#profile{
   width: 75%;
   border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
-#project-list{
+#social-media{
+  width: 20%;
+}
+a:hover{
+  background-color:#7FC8F8;
+  box-shadow: 10px 10px black;
+}
+.project-list{
+  box-sizing: border-box;
+  width: 33%;
+  padding: 50px;
+  margin: 10px;
   float: left;
   background-color:#FF6392;
 
 }
-#about-me{
-padding: 50px;
-float: left;
-background-color: rgb(159,254,59);
-
+.current-interests{
+  box-sizing: border-box;
+  width: 33%;
+  padding: 50px;
+  margin: 10px;
+  padding: 50px;
+  display: inline-block;
+  background-color: #7FC8F8;
 }
-#current-interests{
-padding: 50px;
-float: left;
-background-color: #7FC8F8;
-
+.about-me{
+  box-sizing: border-box;
+  width: 33%;
+  padding: 50px;
+  margin: 10px;
+  padding: 50px;
+  display: inline-block;
+  background-color: rgb(159,254,59);
 }
