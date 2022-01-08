@@ -20,7 +20,7 @@ This website serves as my portfolio which will showcase all of the projects I ha
 * Download repository to local machine
 * Navigate to index.html, right click to open in local browser.
 * Or, use link to view on Github Pages
-* 
+* [Portfolio Project](https://lavinbrenna.github.io/portfolio-project/)
 
 ## Known Bugs
 
