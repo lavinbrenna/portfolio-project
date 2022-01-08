@@ -11,6 +11,7 @@ body{
 h1{
   font-family: 'Righteous', cursive;
   font-size:48pt;
+  text-shadow: 5px 5px 5px #7FC8F8;
 }
 h3{
   font-style:bold;
