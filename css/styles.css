@@ -4,14 +4,23 @@ body{
   font-family: 'Roboto Slab', serif;
 }
 .jumbotron{
-  background-color: #ffffff;
+  background-image: url('https://media1.giphy.com/media/l41K3o5TzvmhZwd4A/giphy.gif?cid=790b761192b69e49d5392988b798f4d4234ee41936dc5499&rid=giphy.gif&ct=g');  
   text-align: center;
   margin: 5px;
+  color: white;
 }
 h1{
   font-family: 'Righteous', cursive;
   font-size:48pt;
-  text-shadow: 5px 5px 5px #7FC8F8;
+  /*text-shadow: 5px 5px 5px #7FC8F8;*/
+  text-shadow: 0 0 7px #7FC8F8,
+    0 0 10px #7FC8F8,
+    0 0 21px #7FC8F8,
+    0 0 42px #7FC8F8,
+    0 0 82px #7FC8F8,
+    0 0 92px #7FC8F8,
+    0 0 102px #7FC8F8,
+    0 0 151px #7FC8F8;
 }
 h3{
   font-style:bold;
