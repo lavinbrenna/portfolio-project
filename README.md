@@ -13,7 +13,7 @@
 
 ## Description
 
-This website serves as my portfolio which will showcase all of the projects I have been working on.
+This website serves as my portfolio which will showcase all of the projects I have been working on at Epicodus. It will get regularly updated throughout the course with each new project.
 
 ## Setup/Installation Requirements
 
